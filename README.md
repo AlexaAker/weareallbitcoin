@@ -35,7 +35,6 @@
   <li>Online gallery space</li>  
   <li>Imagine Bitcoin in 21.4 seconds (micro videos)</li>
 </ul>
-<br>
 <h3>Bitcoin Stories</h3>
 <h4>Down The Rabbit Hole</h4>
 <p>Explain bitcoin concepts and vocabulary in a simplified form.</p>
@@ -48,6 +47,6 @@
 <p>Easily shareable illustrations, graphics, infographics</p>
 <p>Encourage learning & conversation</li>
 <br>
-<h3>Reimagine</h3>
+<h2>Reimagine</h2>
 <p>Evaluate, recreate, & share back findings with the Bitcoin Design Community</p>
 <p>Open, transparent process available to all</p>
