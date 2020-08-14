@@ -29,7 +29,7 @@
 <h2>Path</h2>
 <h3>Bitcoin Challenges</h3>
 <p>Bitcoin awareness campaigns</p>
-<h4>#ImagineBitcoin2140</h4>
+<h4><a href="https://github.com/AlexaAker/weareallbitcoin/wiki/Imagine-Bitcoin-2140" title="Imagine Bitcoin 2140 GitHub Wiki" alt="Imagine Bitcoin 2140 GitHub Wiki">#ImagineBitcoin2140</a></h4>
 <p>Encourage:</p>
 <ul>
   <li>conversation & participation</li>
