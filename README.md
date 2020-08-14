@@ -1,11 +1,10 @@
 <h1>We Are All Bitcoin</h1>
 <h2>Why bitcoin? Its mysteries. Its stories.</h2>
 <img src="https://onyxandalexa.com/images/bitcoin/we-are-all-bitcoin/we-are-all-bitcoin.png" alt="We Are All Bitcoin" title="We Are All Bitcoin"/>
-<h2>Purpose</h2>
 <h3>Philosophy</h3>
 <p>Inclusion | Empowerment | Equality | Transparency</p>
 
-<h3>Goals</h3>
+<h3>Purpose</h3>
 <ul>
   <li>Bring awareness to bitcoin</li>
   <li>Encourage onboarding</li>
