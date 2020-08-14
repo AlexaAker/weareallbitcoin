@@ -51,13 +51,13 @@
 <p>Benefits of bitcoin</p>
 <p>Short video stories (less than 10 minutes)</p>
 <h4>Art Meets Bitcoin</h4>
+<p>Encourage bitcoin learning & conversation through art</p>
 <p>Easily shareable illustrations, graphics, infographics</p>
-<p>Encourage bitcoin learning & conversation through art</li>
 <br>
 <h2>Reimagine</h2>
 <ul>
   <li>Evaluate</li>
-  <li>Reshape & Imagine New</li>
+  <li>Reshape & Imagine New Concepts</li>
   <li>Share possible discoveries on the needs of people using or wanting to use bitcoin</li>
   <li>Share possible discoveries on barriers of adoption and how they could be overcome</li>
   <li>Have an open transparent sharing process</li>
