@@ -46,14 +46,13 @@
 <h3>Bitcoin Stories</h3>
 <h4>Down The Rabbit Hole</h4>
 <p>Explain bitcoin concepts and vocabulary in a simplified form.</p>
-<p>English & Spanish</p>
 <p>Short video stories (less than 10 minutes)</p>
 <h4>Once Upon A Bitcoin</h4>
 <p>Benefits of bitcoin</p>
 <p>Short video stories (less than 10 minutes)</p>
 <h4>Art Meets Bitcoin</h4>
 <p>Easily shareable illustrations, graphics, infographics</p>
-<p>Encourage learning & conversation</li>
+<p>Encourage bitcoin learning & conversation through art</li>
 <br>
 <h2>Reimagine</h2>
 <ul>
