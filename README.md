@@ -38,9 +38,8 @@
 </ul>
 <p>Create with community participation:</p>
 <ul>
-  <li>Square shaped images</li>
-  <li>Written #ImagineBitcoin2140 ideas</li>
-  <li>Online gallery space</li>  
+  <li>Participate through a design, photograph, short video, and/or written description of what #ImagineBitcoin2140 means to you</li>
+  <li>#ImagineBitcoin2140 online gallery space</li>  
   <li>Imagine Bitcoin in 21.4 seconds (micro videos)</li>
 </ul>
 <h3>Bitcoin Stories</h3>
