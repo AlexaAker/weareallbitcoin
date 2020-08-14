@@ -24,7 +24,6 @@
 </ul>
 <br>
 <h2>Path</h2>
-<br>
 <h3>Bitcoin Challenges</h3>
 <p>Bitcoin awareness campaigns</p>
 <h4>#ImagineBitcoin2140</h4>
