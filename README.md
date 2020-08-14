@@ -38,7 +38,7 @@
 </ul>
 <p>Create with community participation:</p>
 <ul>
-  <li>Participate through a design, photograph, short video, and/or written description of what #ImagineBitcoin2140 means to you</li>
+  <li>Participate by sharing a design, photograph, short video, and/or written description of what #ImagineBitcoin2140 means to you</li>
   <li>#ImagineBitcoin2140 online gallery space</li>  
   <li>Imagine Bitcoin in 21.4 seconds (micro videos)</li>
 </ul>
