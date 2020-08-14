@@ -10,13 +10,16 @@
 <p>People with disabilities</p>
 <p>People unfamiliar with technology</p>
 <p>A younger audience familiar with technology but not with bitcoin</p>
-<h4>Explaining information in accessible formats for different learning & participation styles</h4>
+<h4>Create:</h4>
+<p>Using accessible formats for different learning & participation styles</p>
 <p>Materials in English and Spanish</p>
 <br>
+
 <h2>Purpose</h2>
 <ul>
   <li>Bring awareness to bitcoin</li>
   <li>Encourage bitcoin conversation and onboarding</li>
+  <li>Encourage bridging the gap between designers & developers</li>
   <li>Simplify concepts</li>
   <li>Guide people to resources from the bitcoin community</li>
   <li>Discover ways bitcoin is empowering people across the globe</li>
@@ -27,7 +30,11 @@
 <h3>Bitcoin Challenges</h3>
 <p>Bitcoin awareness campaigns</p>
 <h4>#ImagineBitcoin2140</h4>
-<p>Encourage conversation, brainstorming, and discovery of possible paths to follow in improving bitcoin.</p>
+<p>Encourage:</p>
+<ul>
+  <li>conversation & participation</li>
+  <li>brainstorming</li>
+  <li>reasons and ways to improve bitcoin</li>
 <ul>
   <li>Square shaped images</li>
   <li>Written #ImagineBitcoin2140 ideas</li>
@@ -47,5 +54,10 @@
 <p>Encourage learning & conversation</li>
 <br>
 <h2>Reimagine</h2>
-<p>Evaluate, recreate, & share back findings with the Bitcoin Design Community</p>
-<p>Open, transparent process available to all</p>
+<ul>
+  <li>Evaluate</li>
+  <li>Reshape & Imagine New</li>
+  <li>Share possible discoveries on the needs of people using or wanting to use bitcoin</li>
+  <li>Share possible discoveries on barriers of adoption and how they could be overcome</li>
+  <li>Have an open transparent sharing process</li>
+</ul>
