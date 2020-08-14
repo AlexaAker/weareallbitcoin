@@ -35,6 +35,7 @@
   <li>conversation & participation</li>
   <li>brainstorming</li>
   <li>reasons and ways to improve bitcoin</li>
+</ul>
 <ul>
   <li>Square shaped images</li>
   <li>Written #ImagineBitcoin2140 ideas</li>
