@@ -13,6 +13,7 @@
 <h4>Create:</h4>
 <p>Using accessible formats for different learning & participation styles</p>
 <p>Materials in English and Spanish</p>
+<p>Under Creative Commons License</p>
 <br>
 
 <h2>Purpose</h2>
