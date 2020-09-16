@@ -50,7 +50,8 @@
 <h4>Once Upon A Bitcoin</h4>
 <p>Benefits of bitcoin</p>
 <p>Short video stories (less than 10 minutes)</p>
-<h4>Art Meets Bitcoin</h4>
+<h3>Art Meets Bitcoin</h3>
+<p>Open resource library</p>
 <p>Encourage bitcoin learning & conversation through art</p>
 <p>Easily shareable illustrations, graphics, infographics</p>
 <br>
