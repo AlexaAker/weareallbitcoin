@@ -45,12 +45,13 @@
 </ul>
 <h3>Bitcoin Stories</h3>
 <h4>Down The Rabbit Hole</h4>
+<p>How-2-bitcoin</p>
 <p>Explain bitcoin concepts and vocabulary in a simplified form.</p>
 <p>Short video stories (less than 10 minutes)</p>
 <h4>Once Upon A Bitcoin</h4>
 <p>Benefits of bitcoin</p>
 <p>Short video stories (less than 10 minutes)</p>
-<h3>Art Meets Bitcoin</h3>
+<h3><a href="https://github.com/AlexaAker/artmeetsbitcoin" alt="Art Meets Bitcoin Open Library" title="Art Meets Bitcoin Open Library">Art Meets Bitcoin</a></h3>
 <p>Open resource library</p>
 <p>Encourage bitcoin learning & conversation through art</p>
 <p>Easily shareable illustrations, graphics, infographics</p>
