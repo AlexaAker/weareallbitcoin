@@ -30,12 +30,12 @@
 <h2>Path</h2>
 <h3>Bitcoin Challenges</h3>
 <p>Bitcoin awareness campaigns</p>
-<h4><a href="https://github.com/AlexaAker/weareallbitcoin/wiki/Imagine-Bitcoin-2140" title="Imagine Bitcoin 2140 GitHub Wiki" alt="Imagine Bitcoin 2140 GitHub Wiki">#ImagineBitcoin2140</a></h4>
+<h4><a href="https://alexaaker.com/open-doors/we-are-all-bitcoin/imagine-bitcoin-2140/index.html" title="Imagine Bitcoin 2140" alt="Imagine Bitcoin 2140">#ImagineBitcoin2140 &#10530;</a></h4>
 <p>Encourage:</p>
 <ul>
-  <li>conversation & participation</li>
-  <li>brainstorming</li>
   <li>reasons and ways to improve bitcoin</li>
+  <li>brainstorming</li>
+  <li>conversation & participation</li>
 </ul>
 <p>Create with community participation:</p>
 <ul>
@@ -51,10 +51,11 @@
 <h4>Once Upon A Bitcoin</h4>
 <p>Benefits of bitcoin</p>
 <p>Short video stories (less than 10 minutes)</p>
-<h3><a href="https://github.com/AlexaAker/artmeetsbitcoin" alt="Art Meets Bitcoin Open Library" title="Art Meets Bitcoin Open Library">Art Meets Bitcoin</a></h3>
-<p>Open resource library</p>
+<h3><a href="https://alexaaker.com/b-free-free-b/art-meets-bitcoin/" alt="Art Meets Bitcoin Open Library" title="Art Meets Bitcoin Open Library">Art Meets Bitcoin &#10530;</a></h3>
+<h4>Open resource library</h4>
 <p>Encourage bitcoin learning & conversation through art</p>
 <p>Easily shareable illustrations, graphics, infographics</p>
+<p>Illustrations for the <a href="https://bitcoin.design" alt="Art Meets Bitcoin Open Library" title="Art Meets Bitcoin Open Library">Bitcoin Design Guide &#10530;</div></p>
 <br>
 <h2>Reimagine</h2>
 <ul>
